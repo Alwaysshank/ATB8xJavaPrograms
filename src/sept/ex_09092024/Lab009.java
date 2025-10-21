@@ -1,0 +1,14 @@
+package sept.ex_09092024;
+
+public class Lab009 {
+    public static void main(String[] args) {
+       //Variable,Data type and Identifiers
+        boolean is_mohit_married=true;
+        boolean do_you_have_audi=false;
+        boolean do_you_have_bmw=false;
+
+
+
+
+    }
+}
